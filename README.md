@@ -2,7 +2,6 @@
 
 - He/Him
 - 中文/English/Français
-- Engineering Student @ École Centrale Pékin, BUAA
-- Exchange @ École Centrale Nantes
-- Code for fun
-- **Rust**/Go/Python/MATLAB
+- Studying Engineering @ École Centrale Pékin, BUAA
+- Exchange @ École Centrale de Nantes
+- Code for fun: **rs**/go/py
