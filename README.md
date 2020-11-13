@@ -7,7 +7,7 @@
 - Code for fun
 
 <a href="https://github.com/rami3l">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rami3l&theme=buefy&show_icons=true&hide=contribs&line_height=24" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rami3l&theme=buefy&show_icons=true&hide=contribs&line_height=24&count_private=true" />
 </a>
 
 <a href="https://github.com/rami3l?tab=repositories">
