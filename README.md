@@ -3,6 +3,7 @@
 - He/Him
 - 中文/English/Français
 - Studying Computer Science @ Centrale Nantes/Pékin
+- Interested in Programming Languages and Developer Tooling
 - Intern @ [AdaCore](https://github.com/AdaCore) (Mid 2022)
 
 <a href="https://github.com/rami3l">
