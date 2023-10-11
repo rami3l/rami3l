@@ -2,9 +2,10 @@
 
 - He/Him
 - 中文/English/Français
-- Studying Computer Science @ Centrale Nantes/Pékin
-- Interested in Programming Languages and Developer Tooling
-- Intern @ [AdaCore](https://github.com/AdaCore) (Mid 2022)
+- Specialized in Computer Science @ Centrale Nantes/Pékin
+- Interested in Systems Programming and Developer Tooling
+- Previous Intern @ [AdaCore](https://github.com/AdaCore) working on [RecordFlux](https://github.com/AdaCore/RecordFlux) (Q2 - Q3 2022)
+- Member @ [Rust](https://github.com/rust-lang) working on [Rustup](https://github.com/rust-lang/rustup) (Q3 2023 -)
 
 <a href="https://github.com/rami3l">
   <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=rami3l&theme=github-light&show_icons=true&line_height=24&count_private=true" />
@@ -17,5 +18,9 @@
 ---
 
 <a href="https://github.com/rami3l/homebrew-tap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github-light&username=rami3l&repo=homebrew-tap" />
+  <img align="center" height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=github-light&username=rami3l&repo=homebrew-tap" />
+</a>
+
+<a href="https://github.com/rami3l/rami3l.github.io">
+  <img align="center" height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=github-light&username=rami3l&repo=rami3l.github.io" />
 </a>
