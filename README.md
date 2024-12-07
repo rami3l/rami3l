@@ -4,8 +4,9 @@
 - 中文/English/Français
 - Specialized in Computer Science @ Centrale Nantes/Pékin
 - Interested in Systems Programming and Developer Tooling
-- Previous Intern @ [AdaCore](https://github.com/AdaCore) working on [RecordFlux](https://github.com/AdaCore/RecordFlux) (Q2 - Q3 2022)
+- Previous Intern @ [AdaCore](https://github.com/AdaCore)'s SPARK team working on [RecordFlux](https://github.com/AdaCore/RecordFlux) (Q2 - Q3 2022)
 - Member @ [Rust](https://github.com/rust-lang) working on [Rustup](https://github.com/rust-lang/rustup) (Q3 2023 -)
+- Software Engineer @ [Moonbitlang](https://github.com/moonbitlang) working on DevTools (Q3 2024 -)
 
 <a href="https://github.com/rami3l">
   <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=rami3l&theme=github-light&show_icons=true&line_height=24&count_private=true" />
